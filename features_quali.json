@@ -1,0 +1,287 @@
+{
+    "features" : { 
+        "Street": { 
+            "description" : "Type of road access to property",
+            "values" : {
+                "Grvl"  : 0,
+                "Pave"  : 1
+            }
+        },
+       	
+        "Alley": { 
+            "description" : "Type of alley access to property",
+            "values" : {
+                "Grvl"  : 0.5,
+                "Pave"    : 1,
+                "NA" : 0
+            }
+        },
+		
+        "LotShape": { 
+            "description" : "General shape of property",
+            "values" : {
+                "Reg"  : 1,
+                "IR1"  : 0.67,
+                "IR2"    : 0.33,
+                "IR3" : 0
+            }
+        },
+       
+        "Utilities": { 
+            "description" : "Type of utilities available",
+            "values" : {
+                "AllPub"  : 1,
+                "NoSewr"  : 0.67,
+                "NoSeWa"    : 0.33,
+                "ELO" : 0
+            }
+        },
+
+        "LandSlope": { 
+            "description" : "Slope of property",
+            "values" : {
+                "Gtl"  : 1,
+                "Mod"  : 0.50,
+                "Sev"    : 0
+             
+            }
+        },
+		
+        "ExterQual": { 
+            "description" : "Evaluates the quality of the material on the exterior",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.75,
+                "TA"  : 0.50,
+                "Fa"  : 0.25,
+                "Po"    : 0
+             
+            }
+        },
+		
+        "ExterCond": { 
+            "description" : "Evaluates the present condition of the material on the exterior",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.75,
+                "TA"  : 0.50,
+                "Fa"  : 0.25,
+                "Po"    : 0
+     
+            }
+        },
+		
+        "HeatingQC": { 
+            "description" : "Heating quality and condition",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.75,
+                "TA"  : 0.50,
+                "Fa"  : 0.25,
+                "Po"    : 0
+     
+            }
+        },
+        "KitchenQual": { 
+            "description" : "Kitchen quality",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.75,
+                "TA"  : 0.50,
+                "Fa"  : 0.25,
+                "Po"    : 0
+     
+            }
+        },
+
+        
+        "BsmtQual": { 
+            "description" : "Evaluates the height of the basement",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.80,
+                "TA"  : 0.60,
+                "Fa"  : 0.40,
+                "Po"  : 0.20,
+                "NA"  : 0
+     
+            }
+        }, 
+
+        "BsmtCond": { 
+            "description" : "Evaluates the general condition of the basement",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.80,
+                "TA"  : 0.60,
+                "Fa"  : 0.40,
+                "Po"  : 0.20,
+                "NA"  : 0
+     
+            }
+        },
+
+        "FireplaceQu": { 
+            "description" : "Fireplace quality",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.80,
+                "TA"  : 0.60,
+                "Fa"  : 0.40,
+                "Po"  : 0.20,
+                "NA"  : 0
+     
+            }
+        },
+
+        "GarageQual": { 
+            "description" : "Garage quality",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.80,
+                "TA"  : 0.60,
+                "Fa"  : 0.40,
+                "Po"  : 0.20,
+                "NA"  : 0
+     
+            }
+        },
+
+        "GarageCond": {
+            "description" : "Garage condition",
+            "values" : {
+                "Ex"  : 1,
+                "Gd"  : 0.80,
+                "TA"  : 0.60,
+                "Fa"  : 0.40,
+                "Po"  : 0.20,
+                "NA"  : 0
+     
+            }
+        }, 
+
+        "BsmtExposure": {
+            "description" : "Refers to walkout or garden level walls",
+            "values" : {
+                "Gd"  : 1,
+                "Av"  : 0.75,
+                "Mn"  : 0.50,
+                "No"  : 0.25,
+                "NA"    : 0
+     
+            }
+        },
+
+        "BsmtFinType1": {
+            "description" : "Rating of basement finished area",
+            "values" : {
+                "GLQ"  : 1,
+                "ALQ"  : 0.83,
+                "BLQ"  : 0.66,
+                "Rec"  : 0.50,
+                "LwQ"  : 0.34,
+                "Unf"  : 0.17,
+                "NA"   : 0
+     
+            }
+        }, 
+
+        "BsmtFinType2": { 
+            "description" : "Rating of basement finished area (if multiple types)",
+            "values" : {
+                "GLQ"  : 1,
+                "ALQ"  : 0.83,
+                "BLQ"  : 0.66,
+                "Rec"  : 0.50,
+                "LwQ"  : 0.34,
+                "Unf"  : 0.17,
+                "NA"   : 0
+     
+            }
+        },
+
+        "CentralAir": {
+            "description" : "Central air conditioning",
+            "values" : {
+                "N"  : 0,
+                "Y"  : 1
+            }
+        },
+
+        "PavedDrive": { 
+            "description" : "Paved driveway",
+            "values" : {
+                "Y"  : 0.5,
+                "P"    : 1,
+                "N" : 0
+            }
+        },
+		
+        "Electrical": {
+            "description" : "Electrical system",
+            "values" : {
+                "SBrkr"  : 1,
+                "FuseA"  : 0.75,
+                "FuseF"  : 0.50,
+                "FuseP"  : 0.25,
+                "Mix"    : 0,
+                "NA"     : 0
+     
+            }
+        },
+
+        "Functional": { 
+            "description" : "Home functionality (Assume typical unless deductions are warranted)",
+            "values" : {
+                "Typ"  : 1,
+                "Min1"  : 0.84,
+                "Min2"  : 0.70,
+                "Mod"  : 0.56,
+                "Maj1"  : 0.42,
+                "Maj2"  : 0.28,
+                "Sev"   : 0.14,
+                "Sal"   : 0
+     
+            }
+        },
+
+        
+        "GarageType": {
+            "description" : "Garage location",
+            "values" : {
+                "2Types"  : 1,
+                "Attchd"  : 0.83,
+                "Basment"  : 0.66,
+                "BuiltIn"  : 0.50,
+                "CarPort"  : 0.34,
+                "Detchd"  : 0.17,
+                "NA"   : 0
+     
+            }
+        },
+
+ 
+        "GarageFinish": { 
+            "description" : " ",
+            "values" : {
+                "Fin"  : 1,
+                "RFn"  : 0.67,
+                "Unf"    : 0.33,
+                "NA" : 0
+            }
+        },
+        
+        "Fence": { 
+            "description" : "Fence quality",
+            "values" : {
+                "GdPrv"  : 1,
+                "MnPrv"  : 0.75,
+                "GdWo"  : 0.50,
+                "MnWw"  : 0.25,
+                "NA"    : 0
+     
+            }
+        }
+    
+    }
+}
