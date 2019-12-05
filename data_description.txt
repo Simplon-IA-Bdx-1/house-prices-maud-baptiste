@@ -19,14 +19,14 @@ MSSubClass: Identifies the type of dwelling involved in the sale.
 
 MSZoning: Identifies the general zoning classification of the sale.
 		
-       A	Agriculture                     -4
-       C	Commercial                      -3
-       FV	Floating Village Residential    -2
-       I	Industrial                      -1
-       RH	Residential High Density         0
-       RL	Residential Low Density          1
-       RP	Residential Low Density Park     2
-       RM	Residential Medium Density       3
+       A	Agriculture
+       C	Commercial
+       FV	Floating Village Residential
+       I	Industrial
+       RH	Residential High Density
+       RL	Residential Low Density
+       RP	Residential Low Density Park 
+       RM	Residential Medium Density
 	
 LotFrontage: Linear feet of street connected to property
 
@@ -34,21 +34,21 @@ LotArea: Lot size in square feet
 
 Street: Type of road access to property
 
-       Grvl	Gravel	 0
-       Pave	Paved    1
+       Grvl	Gravel	
+       Pave	Paved
        	
 Alley: Type of alley access to property
 
-       Grvl	Gravel           2
-       Pave	Paved            1
-       NA 	No alley access  0
+       Grvl	Gravel
+       Pave	Paved
+       NA 	No alley access
 		
 LotShape: General shape of property
 
-       Reg	Regular	              1
-       IR1	Slightly irregular    0
-       IR2	Moderately Irregular -1
-       IR3	Irregular            -2
+       Reg	Regular	
+       IR1	Slightly irregular
+       IR2	Moderately Irregular
+       IR3	Irregular
        
 LandContour: Flatness of the property
 
@@ -339,16 +339,16 @@ Heating: Type of heating
 		
 HeatingQC: Heating quality and condition
 
-       Ex	Excellent          2
-       Gd	Good               1
-       TA	Average/Typical    0
-       Fa	Fair               -1
-       Po	Poor               -2
+       Ex	Excellent
+       Gd	Good
+       TA	Average/Typical
+       Fa	Fair
+       Po	Poor
 		
 CentralAir: Central air conditioning
 
-       N	No                1
-       Y	Yes               0
+       N	No
+       Y	Yes
 		
 Electrical: Electrical system
 
