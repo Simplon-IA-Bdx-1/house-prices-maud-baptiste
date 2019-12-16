@@ -2,3 +2,5 @@ datasets/kaggle*
 datasets/sample*
 datasets/data*
 docker/
+*.csv
+.ipynb_check*
