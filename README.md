@@ -3,7 +3,7 @@
 
 ### Cher lecteur·ice, nous te remercions d'avance du temps précieux que tu passeras à lire ces quelques lignes, have fun ! ;)
 
-## Installation :
+## Installation
 
 Pour cloner le repo sur ta machine, tape dans ton terminal :
 
@@ -22,22 +22,21 @@ Conda installera les librairies nécessaires et sélectionnera le nouvel environ
 
 ## Organisation du projet
 * Inspection du train set : 
-    * [ACP](http://localhost:8888/notebooks/acp_house_prices.ipynb)
+    * ACP - [fichier local](http://localhost:8888/notebooks/acp_house_prices.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/acp_house_prices.ipynb)
     
-    * [Etude statistique descriptive](http://localhost:8888/notebooks/ml_mastery_5_understand_your_data_with_descriptive_statistics.ipynb)
+    * Etude statistique descriptive - [fichier local](http://localhost:8888/notebooks/ml_mastery_5_understand_your_data_with_descriptive_statistics.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/ml_mastery_5_understand_your_data_with_descriptive_statistics.ipynb) 
 
-    * [Visualisation des données](http://localhost:8888/notebooks/ml_mastery_6_understand_your_data_with_visualization.ipynb)
+    * Visualisation des données - [fichier local](http://localhost:8888/notebooks/ml_mastery_6_understand_your_data_with_visualization.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/ml_mastery_6_understand_your_data_with_visualization.ipynb)
 
-    * [Régression linéaire simple avec la Surface](http://localhost:8888/notebooks/linear_regression_house_data.ipynb)
+    * Régression linéaire simple avec la Surface - [fichier local](http://localhost:8888/notebooks/linear_regression_house_data.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/linear_regression_house_data.ipynb)
 
 * Data formatting, création de modèle et évaluation :
-    * [Prédiction Kaggle avec NbSqrMPrice](http://localhost:8888/notebooks/prediction_with_NeighborhoodSqrMPrice.ipynb)
+    * Prédiction Kaggle avec NbSqrMPrice - [fichier local](http://localhost:8888/notebooks/prediction_with_NeighborhoodSqrMPrice.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/prediction_with_NeighborhoodSqrMPrice.ipynb)
 
-## Score kaggle
-  * Score : 0.13880
+## Score kaggle : [0.13880](https://www.kaggle.com/malaika1/competitions)
 
 ## Auteur·ices
 
-Maud Sonet - [GitHub](https://github.com/Malaika-p) / [mail](mailto:malaika.p.pro@gmail.com)
+### Maud Sonet - [GitHub](https://github.com/Malaika-p) / [mail](mailto:malaika.p.pro@gmail.com)
 
-Baptiste Rogeon - [GitHub](https://github.com/DaTikh) / [mail](mailto:baptiste.rogeon@gmail.com)
+### Baptiste Rogeon - [GitHub](https://github.com/DaTikh) / [mail](mailto:baptiste.rogeon@gmail.com)
