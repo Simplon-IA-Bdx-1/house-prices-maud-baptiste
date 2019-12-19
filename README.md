@@ -33,7 +33,7 @@ Conda installera les librairies nécessaires et sélectionnera le nouvel environ
 * Data formatting, création de modèle et évaluation :
     * Prédiction Kaggle avec NbSqrMPrice - [fichier local](http://localhost:8888/notebooks/prediction_with_NeighborhoodSqrMPrice.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/prediction_with_NeighborhoodSqrMPrice.ipynb)
 
-## Score kaggle : 0.13880
+## Score kaggle : [0.13880](https://www.kaggle.com/malaika1/competitions)
 
 ## Auteur·ices
 
