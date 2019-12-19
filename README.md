@@ -25,7 +25,9 @@ Conda installera les librairies nécessaires et sélectionnera le nouvel environ
 * Inspection du train set : 
     * [ACP](http://localhost:8888/notebooks/acp_house_prices.ipynb)
     
-    * [Visualization](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/ml_mastery_6_understand_your_data_with_visualization.ipynb)
+    * [Etude statistique descriptive](http://localhost:8888/notebooks/ml_mastery_5_understand_your_data_with_descriptive_statistics.ipynb)
+
+    
 * Nettoyage et préparation des données :  [New features give me credit](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/new_features_give_me_credit.ipynb)
 * Création des modèles et évaluation rapide sur BigMl : [Training BigML give me some credit](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/training_bigml_give_me_credit.ipynb)
 * Evaluation du modèle, importance des features, ROC curve : [Evaluation du modèle](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/evaluation_bigml_give_me_credit2.ipynb)
