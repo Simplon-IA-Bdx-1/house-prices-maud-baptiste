@@ -23,9 +23,9 @@ Conda installera les librairies nécessaires et sélectionnera le nouvel environ
 
 ## Organisation du projet
 * Inspection du train set : 
-    * [ACP](http://localhost:8888/notebooks/acp_house_prices.ipynb){:target="_blank"}
+    * [ACP](http://localhost:8888/notebooks/acp_house_prices.ipynb target="_blank")
     
-    * [Etude statistique descriptive](http://localhost:8888/notebooks/ml_mastery_5_understand_your_data_with_descriptive_statistics.ipynb){:target="_blank"}
+    * [Etude statistique descriptive](http://localhost:8888/notebooks/ml_mastery_5_understand_your_data_with_descriptive_statistics.ipynb target="_blank")
 
 
 * Nettoyage et préparation des données :  [New features give me credit](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/new_features_give_me_credit.ipynb)
