@@ -23,7 +23,7 @@ Conda installera les librairies nécessaires et sélectionnera le nouvel environ
 
 ## Organisation du projet
 * Inspection du train set : 
-    * [ACP](acp_house_prices.ipynb)
+    * [ACP](http://localhost:8888/notebooks/acp_house_prices.ipynb)
     
     * [Visualization](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/ml_mastery_6_understand_your_data_with_visualization.ipynb)
 * Nettoyage et préparation des données :  [New features give me credit](https://github.com/Simplon-IA-Bdx-1/give-me-some-credit-Malaika-p/blob/master/new_features_give_me_credit.ipynb)
