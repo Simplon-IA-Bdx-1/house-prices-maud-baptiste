@@ -20,6 +20,12 @@ Ensuite tu pourras installer et utiliser Jupyter dans l'environnement *conda* av
 Conda installera les librairies nécessaires et sélectionnera le nouvel environnement, puis l'application jupyter notebook sera lancée.
 
 
+## Récupèration des données
+
+Depuis ton compte kaggle, récupére les fichiers test et train du challenge Kaggle : https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data[Kaggle house prices : data](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data) (les fichiers doivent être renommés en "kaggle-house-prices-train.csv" et "kaggle-house-prices-test.csv",)
+
+
+
 ## Organisation du projet
 * Inspection du train set : 
     * ACP - [fichier local](http://localhost:8888/notebooks/acp_house_prices.ipynb) / [lien GitHub](https://github.com/Simplon-IA-Bdx-1/house-prices-maud-baptiste/blob/master/acp_house_prices.ipynb)
